@@ -71,7 +71,6 @@ arguments
     group.gplist    (:,2) single = repmat((1:length(x))',1,2);
 end
 %% Constant define
-mu0 = 4e-7*pi; % unit H/m
 e0 = 8.85e-12; % unit F/m
 
 %% Input check
